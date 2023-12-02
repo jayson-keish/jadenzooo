@@ -1,0 +1,11 @@
+<link rel="stylesheet" href="./zoostyle.css">
+
+<h1>JADEN'S ZOO</h1>
+<h2>Zoo animals:</h2>
+<ol>
+    <li><a href="../ZOO ANIMALS/penguin"><button>Penguin</button></a></li><br><hr>
+    <li><a href="../ZOO ANIMALS/crocodile"><button>Crocodile</button></a></li><br><hr>
+    <li><a href="../ZOO ANIMALS/Flamingo"><button>Flamingo</button></a></li><br><hr>
+    <li><a href="../ZOO ANIMALS/Lion"><button>Lion</button></a></li><br><hr>
+    <li><a href="../ZOO ANIMALS/Tiger"><button>Tiger</button></a></li><br><hr>
+</ol>
